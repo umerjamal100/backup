@@ -1,0 +1,1 @@
+export const cardCode = ['VC', 'VD', 'VE', 'VP', 'VB', 'MS', 'MC', 'MD', 'MA', 'MU', 'AX', 'AM', 'AP', 'DN', 'JC', 'DS', 'PP', 'XX']

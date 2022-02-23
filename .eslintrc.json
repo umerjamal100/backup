@@ -1,0 +1,21 @@
+{
+  "extends": [
+  "plugin:@typescript-eslint/recommended"
+],
+  "plugins": [
+  "@typescript-eslint"
+],
+  "env": {
+  "es2020": true,
+    "node": true
+},
+  "settings": {
+},
+  "parserOptions": {
+  "ecmaFeatures": {
+    "modules": true,
+      "legacyDecorators": true
+  }
+},
+  "parser": "@typescript-eslint/parser"
+}
